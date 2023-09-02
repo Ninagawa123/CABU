@@ -18,6 +18,10 @@ The advantages of using CABU include
 - You can assign the same key input to two or more switches.
 - Combo inputs can be freely coded.
   
+<img width="431" alt="SS 974" src="https://github.com/Ninagawa123/CABU/assets/8329123/c50c7eab-d35f-4ef3-8ce4-e9d98f1b9f66">  
+  
+<img width="451" alt="SS 975" src="https://github.com/Ninagawa123/CABU/assets/8329123/836c201e-6a4a-445c-81d6-b0460836d2dd">  
+  
 # Caution  
 必ず、Arduino Leonardo もしくは micro を利用してください。この二つはArduinoシリーズの中でもPCからUSB機器として認識される能力があります。  
 Be sure to use Arduino Leonardo or micro. These two have the ability to be recognized as USB devices within the Arduino series.  
