@@ -1,23 +1,23 @@
-# CABU
+# CABU  
 Control Assist Bypath Unit is an Arduino Leonardo/Micro USB Device for gaming.  
-
-<img width="600" alt="cabu" src="https://github.com/Ninagawa123/CABU/assets/8329123/9c05de82-95bd-440b-9e29-c7737dbd3e0d">
-
-# What is this
-CABUはArduinoをUSBキーボード、マウスとしてPCに認識させ、Arduinoに接続したスイッチによって様々な入力を可能にします。
-CABUを使う利点としては以下のようなものがあります。
-CABU allows the PC to recognize the Arduino as a USB keyboard and mouse, and enables various inputs via switches connected to the Arduino.
-The advantages of using CABU include
-
-- 好きなコントローラ、ジョイスティック、スイッチを自由に活用できる。
-- キーボード入力やマウスの移動量などを自由にアサインできる。
-- 2つ以上のスイッチに、同じキー入力をアサインすることができる。
-- コンボ入力を自由にコーディングすることができる。
-- Free use of any controller, joystick, or switch you like.
-- You can freely assign keyboard input, mouse movement, etc.
-- You can assign the same key input to two or more switches.
-- Combo inputs can be freely coded.
   
+<img width="600" alt="cabu" src="https://github.com/Ninagawa123/CABU/assets/8329123/9c05de82-95bd-440b-9e29-c7737dbd3e0d">  
+  
+# What is this  
+CABUはArduinoをUSBキーボード、マウスとしてPCに認識させ、Arduinoに接続したスイッチによって様々な入力を可能にします。
+CABUを使う利点としては以下のようなものがあります。  
+CABU allows the PC to recognize the Arduino as a USB keyboard and mouse, and enables various inputs via switches connected to the Arduino.  
+The advantages of using CABU include  
+  
+- 好きなコントローラ、ジョイスティック、スイッチを自由に活用できる。  
+- キーボード入力やマウスの移動量などを自由にアサインできる。  
+- 2つ以上のスイッチに、同じキー入力をアサインすることができる。  
+- コンボ入力を自由にコーディングすることができる。  
+- Free use of any controller, joystick, or switch you like.  
+- You can freely assign keyboard input, mouse movement, etc.  
+- You can assign the same key input to two or more switches.  
+- Combo inputs can be freely coded.  
+
 <img width="300" alt="SS" src="https://github.com/Ninagawa123/CABU/assets/8329123/e9b45238-9b0f-4471-b17d-e57c5047e6ad">  
 <br>  
 <img width="300" alt="SS" src="https://github.com/Ninagawa123/CABU/assets/8329123/c50c7eab-d35f-4ef3-8ce4-e9d98f1b9f66">  
