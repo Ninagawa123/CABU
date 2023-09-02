@@ -1,6 +1,6 @@
 # CABU
 Control Assist Bypath Unit is an Arduino Leonardo/Micro USB Device for gaming.
-<img width="600" alt="cabu" src="https://github.com/Ninagawa123/CABU/assets/8329123/9c05de82-95bd-440b-9e29-c7737dbd3e0d">
+<img width="400" alt="cabu" src="https://github.com/Ninagawa123/CABU/assets/8329123/9c05de82-95bd-440b-9e29-c7737dbd3e0d">
 
 # What is this
 CABUはArduinoをUSBキーボード、マウスとしてPCに認識させ、Arduinoに接続したスイッチによって様々な入力を可能にします。
