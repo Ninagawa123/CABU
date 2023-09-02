@@ -1,7 +1,8 @@
 # CABU  
 Control Assist Bypath Unit is an Arduino Leonardo/Micro USB Device for gaming.  
   
-<img width="600" alt="cabu" src="https://github.com/Ninagawa123/CABU/assets/8329123/9c05de82-95bd-440b-9e29-c7737dbd3e0d">  
+<img width="600" alt="cabu" src="https://github.com/Ninagawa123/CABU/assets/8329123/c7286217-73b0-4a8c-a21a-26d1557df4a6">  
+  
   
 # What is this  
 CABUはArduinoをUSBキーボード、マウスとしてPCに認識させ、Arduinoに接続したスイッチによって様々な入力を可能にします。
@@ -18,10 +19,10 @@ The advantages of using CABU include
 - You can assign the same key input to two or more switches.  
 - Combo inputs can be freely coded.  
   
-<img width="300" alt="SS" src="https://github.com/Ninagawa123/CABU/assets/8329123/e9b45238-9b0f-4471-b17d-e57c5047e6ad">  
+<img width="300" alt="SS 979" src="https://github.com/Ninagawa123/CABU/assets/8329123/890045b2-6341-4f4d-8272-9718997f1d13">  
 <br>  
-<img width="300" alt="SS" src="https://github.com/Ninagawa123/CABU/assets/8329123/c50c7eab-d35f-4ef3-8ce4-e9d98f1b9f66">  
-  
+<img width="300" alt="SS 974" src="https://github.com/Ninagawa123/CABU/assets/8329123/fdc3d772-5b4d-490e-b65e-86c146ce015f">  
+    
 # Caution  
 必ず、Arduino Leonardo もしくは micro を利用してください。この二つはArduinoシリーズの中でもPCからUSB機器として認識される能力があります。  
 Be sure to use Arduino Leonardo or micro. These two have the ability to be recognized as USB devices within the Arduino series.  
