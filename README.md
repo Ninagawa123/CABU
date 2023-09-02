@@ -16,23 +16,23 @@ The advantages of using CABU include
 - You can freely assign keyboard input, mouse movement, etc.
 - You can assign the same key input to two or more switches.
 - Combo inputs can be freely coded.
-- 
-# Caution
-必ず、Arduino Leonardo もしくは micro を利用してください。この二つはArduinoシリーズの中でもPCからUSB機器として認識される能力があります。
-Be sure to use Arduino Leonardo or micro. These two have the ability to be recognized as USB devices within the Arduino series.
+  
+# Caution  
+必ず、Arduino Leonardo もしくは micro を利用してください。この二つはArduinoシリーズの中でもPCからUSB機器として認識される能力があります。  
+Be sure to use Arduino Leonardo or micro. These two have the ability to be recognized as USB devices within the Arduino series.  
+  
+# How to install  
+コントローラーのボタン等のスイッチの配線を、GNDと任意のピンに一つ一つ接続してください。  
+Connect the wires of the buttons and other switches on the controller to GND and any pins one by one.  
 
-# How to install
-コントローラーのボタン等のスイッチの配線を、GNDと任意のピンに一つ一つ接続してください。
-Connect the wires of the buttons and other switches on the controller to GND and any pins one by one.
+ソースコードを実態に合わせて改造してください。  
+Please modify the source code to match the actual situation.  
 
-ソースコードを実態に合わせて改造してください。
-Please modify the source code to match the actual situation.
-
-ソースコードをArduinoに書き込んでください。
-Write the source code to the Arduino.
-
-# Default
-デフォルトのコードでは以下のようなアサインになっています。
+ソースコードをArduinoに書き込んでください。  
+Write the source code to the Arduino.  
+  
+# Default  
+デフォルトのコードでは以下のようなアサインになっています。  
 
 
 
