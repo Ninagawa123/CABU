@@ -3,7 +3,7 @@ Control Assist Bypath Unit is an Arduino Leonardo/Micro USB Device for gaming.
 
 <img width="600" alt="cabu" src="https://github.com/Ninagawa123/CABU/assets/8329123/9c05de82-95bd-440b-9e29-c7737dbd3e0d">
 
-[![動画]([https://user-images.githubusercontent.com/84756197/173222007-3aefa245-4c0e-45e6-9855-91f0e3be89ed.png](https://github.com/Ninagawa123/CABU/assets/8329123/2bb90c29-aac6-4960-9d1b-a0339012b1ad))]([https://youtu.be/5aKI900iGVo?t=1336](https://youtube.com/shorts/STY2dBGugAs?si=1slwiQFyRI1FJIuR
+[![動画][https://user-images.githubusercontent.com/84756197/173222007-3aefa245-4c0e-45e6-9855-91f0e3be89ed.png](https://github.com/Ninagawa123/CABU/assets/8329123/2bb90c29-aac6-4960-9d1b-a0339012b1ad))]([https://youtu.be/5aKI900iGVo?t=1336](https://youtube.com/shorts/STY2dBGugAs?si=1slwiQFyRI1FJIuR
 ))
 
 # What is this
