@@ -18,8 +18,8 @@ The advantages of using CABU include
 - You can assign the same key input to two or more switches.
 - Combo inputs can be freely coded.
   
-<img width="300" alt="SS" src="https://github.com/Ninagawa123/CABU/assets/8329123/e9b45238-9b0f-4471-b17d-e57c5047e6ad">
-
+<img width="300" alt="SS" src="https://github.com/Ninagawa123/CABU/assets/8329123/e9b45238-9b0f-4471-b17d-e57c5047e6ad">  
+  
 <img width="300" alt="SS" src="https://github.com/Ninagawa123/CABU/assets/8329123/c50c7eab-d35f-4ef3-8ce4-e9d98f1b9f66">  
   
 # Caution  
