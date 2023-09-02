@@ -33,7 +33,7 @@ Please modify the source code to match the actual situation.
 Write the source code to the Arduino.  
   
 # Default  
-デフォルトのコードではアーマードコア６に合わせ、以下のようなアサインになっています。  
+デフォルトのコードではアーマードコア６に合わせ、おおむね以下のようなアサインになっています。  
 
 |ピン番号|ボタン|キーアサイン|備考|
 |--|--|--|--|
