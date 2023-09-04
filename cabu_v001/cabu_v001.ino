@@ -7,15 +7,15 @@
 #define BTN_L_STK_DOWN 10
 #define BTN_L_STK_LEFT 11
 #define BTN_L_STK_RIGHT 12
-#define BTN_R_STK_TRIG_A 20  //A0 親指丸ボタン
-#define BTN_R_STK_TRIG_B 21  //A1 人差し指トリガーボタン
+#define BTN_R_STK_TRIG_A 20  //A2 親指丸ボタン
+#define BTN_R_STK_TRIG_B 21  //A3 人差し指トリガーボタン
 #define BTN_R_STK_UP 5
 #define BTN_R_STK_DOWN 6
 #define BTN_R_STK_LEFT 7
 #define BTN_R_STK_RIGHT 8
 #define BTN_R_STK_TRIG_C 3  // 追加ボタン
 #define BTN_L_STK_TRIG_C 4  // 追加ボタン
-#define BTN_EX_1 22         // 追加ボタン
+#define BTN_EX_1 22         // A4 追加ボタン
 #define LED0 13             // Arduino基板上のLED
 #define FRAME_DURATION 10
 #define FRAME_TWICE_INPUT_INTERVAL_L_STK 15
